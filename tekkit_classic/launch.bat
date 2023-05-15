@@ -1,2 +1,2 @@
-java -Xmx10G -Xms10G -jar Tekkit.jar nogui
+java -Xmx3G -Xms2G -jar Tekkit.jar nogui
 pause
