@@ -1,0 +1,29 @@
+#--broadcast when the /lagg clear command is ran--#
+player-broadcast-removal: false
+#--broadcast on console removal--#
+console-broadcast-removal: true
+ 
+#This is how long it takes for the server to auto-run lagg clear
+#To disable this, put -1
+InitialDelay: 600
+#This goes by seconds!
+#600 = 10 minutes
+ 
+#--Removal options--#
+remove-boat: true
+remove-xp: true
+remove-painting: true
+remove-projectile: true
+remove-item: true
+remove-minecart: true
+remove-ready-tnt: true
+remove-fallingsand: true
+remove-arrow: true
+remove-snowball: true
+remove-fireball: true
+remove-EnderSignal: true
+ 
+#--Removal options for mobs--#
+remove-creature: false
+remove-animals: false
+remove-monster: false
