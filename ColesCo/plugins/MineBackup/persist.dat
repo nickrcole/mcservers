@@ -3,12 +3,13 @@ worlds:
   world:
     dirty: false
     save:
-      next: 1562205840217
+      next: 1684203660807
     copy:
-      next: 1562205840218
+      next: 1684203180798
     keep:
     - .\minebackup\world\2018-01-07_22-15-01
     - .\minebackup\world\2019-07-03_21-51-00
+    - ./minebackup/world/2023-05-16_02-02-00
   world_the_end:
     dirty: false
   world_nether:
@@ -91,4 +92,4 @@ worlds:
     - .\minebackup\freshh\2018-02-08_19-56-06
 others:
   plugins:
-    dirty: true
+    dirty: false
