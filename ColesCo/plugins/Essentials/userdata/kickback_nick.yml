@@ -1,0 +1,24 @@
+timestamps:
+  login: 1445542871005
+  logout: 1445544653843
+  lastteleport: 1445544533307
+ipAddress: 98.235.180.48
+lastlocation:
+  world: sd
+  x: 18.654878262200945
+  y: 63.0
+  z: 314.1978770656181
+  yaw: 118.80368
+  pitch: 9.3
+afk: false
+nickname: §cCole
+homes:
+  home:
+    world: sd
+    x: 7.480169517648216
+    y: 63.0
+    z: 312.8682280141519
+    yaw: 271.35327
+    pitch: 84.299995
+powertools: {}
+godmode: false

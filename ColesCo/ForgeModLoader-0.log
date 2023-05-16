@@ -1,0 +1,184 @@
+2019-10-15 23:32:10 [INFO] Forge Mod Loader version 2.2.91.173 for Minecraft 1.2.5 loading
+2019-10-15 23:32:10 [FINE] Attempting to load mods contained in the minecraft jar file and associated classes
+2019-10-15 23:32:10 [FINE] Minecraft is a file at I:\Server Control\ColesCoTekkit\Tekkit.jar, loading
+2019-10-15 23:32:10 [FINE] Found a mod class net.minecraft.server.mod_MinecraftForge in file Tekkit.jar, attempting to load it
+2019-10-15 23:32:10 [FINE] ModLoader BaseMod class net.minecraft.server.mod_MinecraftForge found, loading
+2019-10-15 23:32:10 [FINE] ModLoader BaseMod class net.minecraft.server.mod_MinecraftForge loaded
+2019-10-15 23:32:10 [FINE] Mod class net.minecraft.server.mod_MinecraftForge loaded successfully
+2019-10-15 23:32:10 [FINE] Minecraft jar mods loaded successfully
+2019-10-15 23:32:10 [INFO] Loading mods from I:\Server Control\ColesCoTekkit\mods
+2019-10-15 23:32:10 [FINE] Found a zip or jar file AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip, attempting to load it
+2019-10-15 23:32:10 [FINE] Found a mod class net.minecraft.server.mod_AdditionalPipes in file AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip, attempting to load it
+2019-10-15 23:32:10 [FINE] ModLoader BaseMod class net.minecraft.server.mod_AdditionalPipes found, loading
+2019-10-15 23:32:10 [FINE] ModLoader BaseMod class net.minecraft.server.mod_AdditionalPipes loaded
+2019-10-15 23:32:10 [FINE] Failed to find mcmod.info file in AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip for mod_AdditionalPipes
+2019-10-15 23:32:10 [FINE] Mod class net.minecraft.server.mod_AdditionalPipes loaded successfully
+2019-10-15 23:32:10 [FINE] File AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip loaded successfully
+2019-10-15 23:32:10 [FINE] Found a zip or jar file advancedMachines_4.0_bukkit.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_IC2AdvancedMachines in file advancedMachines_4.0_bukkit.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2AdvancedMachines found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2AdvancedMachines loaded
+2019-10-15 23:32:11 [FINE] Failed to find mcmod.info file in advancedMachines_4.0_bukkit.zip for mod_IC2AdvancedMachines
+2019-10-15 23:32:11 [FINE] Mod class net.minecraft.server.mod_IC2AdvancedMachines loaded successfully
+2019-10-15 23:32:11 [FINE] File advancedMachines_4.0_bukkit.zip loaded successfully
+2019-10-15 23:32:11 [FINE] Found a zip or jar file BalkonsWeaponMod1.2.5.jar, attempting to load it
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_WeaponMod in file BalkonsWeaponMod1.2.5.jar, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WeaponMod found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WeaponMod loaded
+2019-10-15 23:32:11 [FINE] Failed to find mcmod.info file in BalkonsWeaponMod1.2.5.jar for mod_WeaponMod
+2019-10-15 23:32:11 [FINE] Mod class net.minecraft.server.mod_WeaponMod loaded successfully
+2019-10-15 23:32:11 [FINE] File BalkonsWeaponMod1.2.5.jar loaded successfully
+2019-10-15 23:32:11 [FINE] Found a zip or jar file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftTransport in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftTransport found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftTransport loaded
+2019-10-15 23:32:11 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftTransport
+2019-10-15 23:32:11 [FINE] Mod class net.minecraft.server.mod_BuildCraftTransport loaded successfully
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftFactory in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftFactory found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftFactory loaded
+2019-10-15 23:32:11 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftFactory
+2019-10-15 23:32:11 [FINE] Mod class net.minecraft.server.mod_BuildCraftFactory loaded successfully
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftEnergy in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftEnergy found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftEnergy loaded
+2019-10-15 23:32:11 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftEnergy
+2019-10-15 23:32:11 [FINE] Mod class net.minecraft.server.mod_BuildCraftEnergy loaded successfully
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftCore in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftCore found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftCore loaded
+2019-10-15 23:32:11 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftCore
+2019-10-15 23:32:11 [FINE] Mod class net.minecraft.server.mod_BuildCraftCore loaded successfully
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftBuilders in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftBuilders found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftBuilders loaded
+2019-10-15 23:32:11 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftBuilders
+2019-10-15 23:32:11 [FINE] Mod class net.minecraft.server.mod_BuildCraftBuilders loaded successfully
+2019-10-15 23:32:11 [FINE] File buildcraft-2.2.14-mcpc1.2.5-r8.zip loaded successfully
+2019-10-15 23:32:11 [FINE] Found a directory ccSensors, attempting to load it
+2019-10-15 23:32:11 [FINEST] Recursing into package api
+2019-10-15 23:32:11 [FINEST] Recursing into package ccSensors
+2019-10-15 23:32:11 [FINEST] Recursing into package ccSensors.api
+2019-10-15 23:32:11 [FINEST] Recursing into package ccSensors.help
+2019-10-15 23:32:11 [FINEST] Recursing into package ccSensors.lua
+2019-10-15 23:32:11 [FINEST] Recursing into package ccSensors.shared
+2019-10-15 23:32:11 [FINEST] Recursing into package ccSensors.shared.network
+2019-10-15 23:32:11 [FINEST] Recursing into package ccSensors.shared.sensorModules
+2019-10-15 23:32:11 [FINEST] Recursing into package help
+2019-10-15 23:32:11 [FINEST] Recursing into package lua
+2019-10-15 23:32:11 [FINEST] Recursing into package net
+2019-10-15 23:32:11 [FINEST] Recursing into package net.minecraft
+2019-10-15 23:32:11 [FINEST] Recursing into package net.minecraft.server
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_ccSensors in directory server, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ccSensors found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ccSensors loaded
+2019-10-15 23:32:11 [FINE] Successfully loaded mod class mod_ccSensors.class
+2019-10-15 23:32:11 [FINE] Directory ccSensors loaded successfully
+2019-10-15 23:32:11 [FINE] Found a zip or jar file CodeChickenCore-Bukkit 0.5.3r3.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_CodeChickenCore in file CodeChickenCore-Bukkit 0.5.3r3.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CodeChickenCore found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CodeChickenCore loaded
+2019-10-15 23:32:11 [FINE] Failed to find mcmod.info file in CodeChickenCore-Bukkit 0.5.3r3.zip for mod_CodeChickenCore
+2019-10-15 23:32:11 [FINE] Mod class net.minecraft.server.mod_CodeChickenCore loaded successfully
+2019-10-15 23:32:11 [FINE] File CodeChickenCore-Bukkit 0.5.3r3.zip loaded successfully
+2019-10-15 23:32:11 [FINE] Found a directory ComputerCraft, attempting to load it
+2019-10-15 23:32:11 [FINEST] Recursing into package dan200
+2019-10-15 23:32:11 [FINEST] Recursing into package dan200.computer
+2019-10-15 23:32:11 [FINEST] Recursing into package dan200.computer.api
+2019-10-15 23:32:11 [FINEST] Recursing into package dan200.computer.core
+2019-10-15 23:32:11 [FINEST] Recursing into package dan200.computer.shared
+2019-10-15 23:32:11 [FINEST] Recursing into package dan200.turtle
+2019-10-15 23:32:11 [FINEST] Recursing into package dan200.turtle.api
+2019-10-15 23:32:11 [FINEST] Recursing into package dan200.turtle.shared
+2019-10-15 23:32:11 [FINEST] Recursing into package eloraam
+2019-10-15 23:32:11 [FINEST] Recursing into package eloraam.core
+2019-10-15 23:32:11 [FINEST] Recursing into package licenses
+2019-10-15 23:32:11 [FINEST] Recursing into package lua
+2019-10-15 23:32:11 [FINEST] Recursing into package lua.rom
+2019-10-15 23:32:11 [FINEST] Recursing into package lua.rom.apis
+2019-10-15 23:32:11 [FINEST] Recursing into package lua.rom.apis.turtle
+2019-10-15 23:32:11 [FINEST] Recursing into package lua.rom.help
+2019-10-15 23:32:11 [FINEST] Recursing into package lua.rom.programs
+2019-10-15 23:32:11 [FINEST] Recursing into package lua.rom.programs.computer
+2019-10-15 23:32:11 [FINEST] Recursing into package lua.rom.programs.http
+2019-10-15 23:32:11 [FINEST] Recursing into package lua.rom.programs.secret
+2019-10-15 23:32:11 [FINEST] Recursing into package lua.rom.programs.turtle
+2019-10-15 23:32:11 [FINEST] Recursing into package net
+2019-10-15 23:32:11 [FINEST] Recursing into package net.minecraft
+2019-10-15 23:32:11 [FINEST] Recursing into package net.minecraft.server
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_CCTurtle in directory server, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CCTurtle found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CCTurtle loaded
+2019-10-15 23:32:11 [FINE] Successfully loaded mod class mod_CCTurtle.class
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_ComputerCraft in directory server, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ComputerCraft found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ComputerCraft loaded
+2019-10-15 23:32:11 [FINE] Successfully loaded mod class mod_ComputerCraft.class
+2019-10-15 23:32:11 [FINEST] Recursing into package org
+2019-10-15 23:32:11 [FINEST] Recursing into package org.luaj
+2019-10-15 23:32:11 [FINEST] Recursing into package org.luaj.vm2
+2019-10-15 23:32:11 [FINEST] Recursing into package org.luaj.vm2.ast
+2019-10-15 23:32:11 [FINEST] Recursing into package org.luaj.vm2.compiler
+2019-10-15 23:32:11 [FINEST] Recursing into package org.luaj.vm2.lib
+2019-10-15 23:32:11 [FINEST] Recursing into package org.luaj.vm2.lib.jse
+2019-10-15 23:32:11 [FINEST] Recursing into package org.luaj.vm2.lua2java
+2019-10-15 23:32:11 [FINEST] Recursing into package org.luaj.vm2.luajc
+2019-10-15 23:32:11 [FINEST] Recursing into package org.luaj.vm2.parser
+2019-10-15 23:32:11 [FINEST] Recursing into package org.luaj.vm2.script
+2019-10-15 23:32:11 [FINE] Directory ComputerCraft loaded successfully
+2019-10-15 23:32:11 [FINE] Found a zip or jar file EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_EE in file EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EE found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EE loaded
+2019-10-15 23:32:11 [FINE] Failed to find mcmod.info file in EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip for mod_EE
+2019-10-15 23:32:11 [FINE] Mod class net.minecraft.server.mod_EE loaded successfully
+2019-10-15 23:32:11 [FINE] File EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip loaded successfully
+2019-10-15 23:32:11 [FINE] Found a zip or jar file EnderStorage-Bukkit 1.1.3r2.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] Found a mod class net.minecraft.server.mod_EnderStorage in file EnderStorage-Bukkit 1.1.3r2.zip, attempting to load it
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EnderStorage found, loading
+2019-10-15 23:32:11 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EnderStorage loaded
+2019-10-15 23:32:11 [FINE] Failed to find mcmod.info file in EnderStorage-Bukkit 1.1.3r2.zip for mod_EnderStorage
+2019-10-15 23:32:11 [FINE] Mod class net.minecraft.server.mod_EnderStorage loaded successfully
+2019-10-15 23:32:11 [FINE] File EnderStorage-Bukkit 1.1.3r2.zip loaded successfully
+2019-10-15 23:32:11 [FINE] Found a zip or jar file immibis-core_49.1.1_for_1.2.5-bukkit.jar, attempting to load it
+2019-10-15 23:32:12 [FINE] Found a mod class net.minecraft.server.mod_ImmibisCore in file immibis-core_49.1.1_for_1.2.5-bukkit.jar, attempting to load it
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ImmibisCore found, loading
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ImmibisCore loaded
+2019-10-15 23:32:12 [FINE] Failed to find mcmod.info file in immibis-core_49.1.1_for_1.2.5-bukkit.jar for mod_ImmibisCore
+2019-10-15 23:32:12 [FINE] Mod class net.minecraft.server.mod_ImmibisCore loaded successfully
+2019-10-15 23:32:12 [FINE] File immibis-core_49.1.1_for_1.2.5-bukkit.jar loaded successfully
+2019-10-15 23:32:12 [FINE] Found a zip or jar file industrialcraft2-1.97-mcpc1.2.5-r7.zip, attempting to load it
+2019-10-15 23:32:12 [FINE] Found a mod class net.minecraft.server.mod_IC2 in file industrialcraft2-1.97-mcpc1.2.5-r7.zip, attempting to load it
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2 found, loading
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2 loaded
+2019-10-15 23:32:12 [FINE] Failed to find mcmod.info file in industrialcraft2-1.97-mcpc1.2.5-r7.zip for mod_IC2
+2019-10-15 23:32:12 [FINE] Mod class net.minecraft.server.mod_IC2 loaded successfully
+2019-10-15 23:32:12 [FINE] File industrialcraft2-1.97-mcpc1.2.5-r7.zip loaded successfully
+2019-10-15 23:32:12 [FINE] Found a zip or jar file mffs_rev7_for_1.2.5-bukkit.zip, attempting to load it
+2019-10-15 23:32:12 [FINE] Found a mod class mffs.mod_ModularForceFieldSystem in file mffs_rev7_for_1.2.5-bukkit.zip, attempting to load it
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class mffs.mod_ModularForceFieldSystem found, loading
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class mffs.mod_ModularForceFieldSystem loaded
+2019-10-15 23:32:12 [FINE] Failed to find mcmod.info file in mffs_rev7_for_1.2.5-bukkit.zip for mod_ModularForceFieldSystem
+2019-10-15 23:32:12 [FINE] Mod class mffs.mod_ModularForceFieldSystem loaded successfully
+2019-10-15 23:32:12 [FINE] File mffs_rev7_for_1.2.5-bukkit.zip loaded successfully
+2019-10-15 23:32:12 [FINE] Found a zip or jar file mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip, attempting to load it
+2019-10-15 23:32:12 [FINE] Found a mod class net.minecraft.server.mod_IC2_ChargingBench in file mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip, attempting to load it
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2_ChargingBench found, loading
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2_ChargingBench loaded
+2019-10-15 23:32:12 [FINE] Failed to find mcmod.info file in mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip for mod_IC2_ChargingBench
+2019-10-15 23:32:12 [FINE] Mod class net.minecraft.server.mod_IC2_ChargingBench loaded successfully
+2019-10-15 23:32:12 [FINE] File mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip loaded successfully
+2019-10-15 23:32:12 [FINE] Found a zip or jar file mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip, attempting to load it
+2019-10-15 23:32:12 [FINE] Found a mod class net.minecraft.server.mod_CompactSolars in file mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip, attempting to load it
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CompactSolars found, loading
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CompactSolars loaded
+2019-10-15 23:32:12 [FINE] Mod class net.minecraft.server.mod_CompactSolars loaded successfully
+2019-10-15 23:32:12 [FINE] File mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip loaded successfully
+2019-10-15 23:32:12 [FINE] Found a zip or jar file mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip, attempting to load it
+2019-10-15 23:32:12 [FINE] Found a mod class net.minecraft.server.mod_IC2NuclearControl in file mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip, attempting to load it
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2NuclearControl found, loading
+2019-10-15 23:32:12 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2NuclearControl loaded
+2019-10-15 23:32:12 [FINE] Failed to find mcmod.info file in mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip for mod_IC2NuclearControl
+2019-10-15 23:32:12 [FINE] Mod class net.minecraft.server.mod_IC2NuclearControl loaded successfully
+2019-10-15 23:32:12 [FINE] File mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip loaded successfully
+2019-10-15 23:32:12 [FINE] Found a zip or jar file mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip, attempting to load it

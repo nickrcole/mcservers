@@ -1,0 +1,94 @@
+version-nomodify: 5.9.3
+worlds:
+  world:
+    dirty: false
+    save:
+      next: 1562205840217
+    copy:
+      next: 1562205840218
+    keep:
+    - .\minebackup\world\2018-01-07_22-15-01
+    - .\minebackup\world\2019-07-03_21-51-00
+  world_the_end:
+    dirty: false
+  world_nether:
+    dirty: false
+    save:
+      next: 0
+    copy:
+      next: 0
+    keep:
+    - .\minebackup\world_nether\2018-02-08_19-54-06
+  survival:
+    dirty: false
+    save:
+      next: 0
+    copy:
+      next: 1542684783728
+  colescosurvival:
+    dirty: false
+    save:
+      next: 0
+    copy:
+      next: 0
+    keep:
+    - .\minebackup\colescosurvival\2019-07-03_21-49-00
+  sd:
+    dirty: false
+    save:
+      next: 1542685085357
+    copy:
+      next: 1542685085358
+  world5:
+    save:
+      next: 1542684783729
+    copy:
+      next: 1542684783730
+    dirty: false
+    keep:
+    - .\minebackup\world5\2018-01-07_22-17-01
+    - .\minebackup\world5\2018-01-08_20-03-01
+    - .\minebackup\world5\2018-01-08_21-32-06
+    - .\minebackup\world5\2018-01-09_17-54-02
+  fresh:
+    save:
+      next: 1562205780211
+    copy:
+      next: 1562205780212
+    dirty: true
+    keep:
+    - .\minebackup\fresh\2018-01-09_19-01-26
+    - .\minebackup\fresh\2018-01-09_20-00-26
+    - .\minebackup\fresh\2018-01-09_20-10-27
+    - .\minebackup\fresh\2018-01-10_20-48-01
+    - .\minebackup\fresh\2018-01-10_20-58-30
+    - .\minebackup\fresh\2018-01-10_21-09-30
+    - .\minebackup\fresh\2018-01-10_21-20-30
+    - .\minebackup\fresh\2018-01-10_21-30-30
+    - .\minebackup\fresh\2018-01-10_21-40-30
+    - .\minebackup\fresh\2018-01-10_21-51-30
+    - .\minebackup\fresh\2018-01-10_22-02-30
+    - .\minebackup\fresh\2018-01-10_22-13-30
+    - .\minebackup\fresh\2018-01-10_22-24-30
+    - .\minebackup\fresh\2018-01-10_22-35-30
+    - .\minebackup\fresh\2018-02-08_19-30-01
+    - .\minebackup\fresh\2018-02-08_19-41-01
+    - .\minebackup\fresh\2018-02-08_19-51-06
+    - .\minebackup\fresh\2018-02-08_20-01-06
+    - .\minebackup\fresh\2018-02-08_20-11-06
+    - .\minebackup\fresh\2018-02-08_20-21-59
+    - .\minebackup\fresh\2018-02-08_20-32-59
+    - .\minebackup\fresh\2018-02-08_20-43-04
+    - .\minebackup\fresh\2018-11-19_22-08-03
+    - .\minebackup\fresh\2018-11-19_22-28-05
+  freshh:
+    dirty: false
+    save:
+      next: 0
+    copy:
+      next: 0
+    keep:
+    - .\minebackup\freshh\2018-02-08_19-56-06
+others:
+  plugins:
+    dirty: true
