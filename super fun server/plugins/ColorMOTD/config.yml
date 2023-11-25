@@ -1,0 +1,5 @@
+ColorMOTD:  
+  # Your required MOTD (Colorcode: '&')
+  motd:
+    line1: '&8Minecraft &c&lState High'
+    line2: ''

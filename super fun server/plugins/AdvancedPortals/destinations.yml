@@ -1,0 +1,32 @@
+# 
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+#      Z:
+
+castawayisland:
+  world: island
+  pos:
+    X: -77.47044210241232
+    Y: 65.0
+    Z: -74.68121733335674
+    pitch: 5.549998
+    yaw: -267.5999
+survivorisland:
+  world: sw
+  pos:
+    X: -298.6823565335452
+    Y: 69.0
+    Z: 4.027512015613955
+    pitch: 11.700075
+    yaw: -274.6502
+loserisland:
+  world: island
+  pos:
+    X: -573.4788954487483
+    Y: 167.0
+    Z: -256.4867110074117
+    pitch: 60.7419
+    yaw: -51.164318

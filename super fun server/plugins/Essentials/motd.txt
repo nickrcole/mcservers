@@ -1,0 +1,4 @@
+&3Welcome to &c&lState &8&lHigh&3, {PLAYER}!
+&3Use command /fly to enable flying and use command /speed to increase your walking or flying speed.
+&4Please Note: &6Not all interiors are complete (A Pod, Athletics Wing) and landscaping/roads are not complete either. If you are interested in contributing contact nrc11@scasd.org
+&3Information on playing parkour is available at parkour spots.

@@ -1,0 +1,31 @@
+lastAccountName: Jacx2000
+timestamps:
+  login: 1587935821956
+  lastteleport: 1587936849059
+  logout: 1587936873561
+  kits:
+    centurion: 1587837632178
+    soldier: 1587677510487
+    juggernaut: 1587836920546
+    archer: 1587681606560
+    notch: 1587866156928
+    dtools: 1587866171432
+    hunter: 1587866312232
+    assassin: 1587836145600
+    heavy: 1587687141955
+ipAddress: 73.175.151.219
+lastlocation:
+  world: flattyfa
+  x: 129.16483809644038
+  y: 8.0
+  z: -57.380873796559115
+  yaw: 91.1626
+  pitch: 28.649042
+logoutlocation:
+  world: flattyfa
+  x: 62.895839442385295
+  y: 4.0
+  z: 111.41822307772114
+  yaw: 80.99722
+  pitch: 22.350058
+afk: false

@@ -1,0 +1,28 @@
+lastAccountName: joiftaman
+timestamps:
+  login: 1584587116253
+  logout: 1584587560412
+  lastteleport: 1584460635014
+ipAddress: 73.230.122.34
+lastlocation:
+  world: flattyfa
+  x: 10.23173051556831
+  y: 9.156163337781273
+  z: 12.153095055188217
+  yaw: 160.79965
+  pitch: 41.55001
+logoutlocation:
+  world: flattyfa
+  x: -258.08046235670486
+  y: 16.074214297969203
+  z: 63.1971257110024
+  yaw: -80.414536
+  pitch: 28.950035
+homes:
+  home:
+    world: survival2
+    x: 388.2763834389319
+    y: 68.0
+    z: 390.4570612902452
+    yaw: 57.144165
+    pitch: 23.342796

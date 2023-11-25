@@ -1,0 +1,20 @@
+lastAccountName: MisterObama
+timestamps:
+  login: 1586229610578
+  logout: 1586230099158
+  lastteleport: 1586228508273
+ipAddress: 68.232.120.207
+lastlocation:
+  world: flattyfa
+  x: -33.779123733895126
+  y: 8.0
+  z: -125.53354408950074
+  yaw: 26.111572
+  pitch: 1.350343
+logoutlocation:
+  world: flattyfa
+  x: 62.02745677377687
+  y: 8.0
+  z: -23.70600707042098
+  yaw: 259.5786
+  pitch: 21.900093

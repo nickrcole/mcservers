@@ -1,0 +1,21 @@
+lastAccountName: COVID___20
+timestamps:
+  login: 1587267434261
+  logout: 1587268419081
+  lastteleport: 1587267991286
+ipAddress: 71.58.214.80
+lastlocation:
+  world: flattyfa
+  x: 121.38729601422516
+  y: 4.0
+  z: 85.31079765268204
+  yaw: -101.99292
+  pitch: 20.400034
+logoutlocation:
+  world: flattyfa
+  x: 142.85499818818977
+  y: 10.826516790255083
+  z: 59.69952926379534
+  yaw: -236.00656
+  pitch: 21.750105
+afk: false

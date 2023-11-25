@@ -1,0 +1,30 @@
+lastAccountName: pletlibo
+timestamps:
+  login: 1586368381806
+  lastteleport: 1586362722626
+  logout: 1586368893085
+ipAddress: 98.235.180.48
+lastlocation:
+  world: creativefun
+  x: -353.54471166299544
+  y: 79.41709482671892
+  z: -546.1618597342672
+  yaw: 227.43422
+  pitch: 62.70012
+logoutlocation:
+  world: flattyfa
+  x: 78.65314935591711
+  y: 7.494910110829932
+  z: 19.74760418610769
+  yaw: -87.30286
+  pitch: 9.000091
+homes:
+  home:
+    world: creativefun
+    x: -344.5
+    y: 63.0
+    z: -538.5
+    yaw: 213.93419
+    pitch: -14.099882
+afk: false
+nickname: §3Emma

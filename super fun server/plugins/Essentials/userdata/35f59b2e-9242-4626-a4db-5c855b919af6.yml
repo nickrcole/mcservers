@@ -1,0 +1,47 @@
+lastAccountName: piratelover5
+timestamps:
+  login: 1595469653098
+  kits:
+    trickster: 1587837302635
+    centurian: 1587835607195
+    sniper: 1587754880574
+    color: 1588026511645
+    soldier: 1587600848616
+    juggernaut: 1587836081934
+    archer: 1587601290564
+    hunter: 1587755566426
+    tools: 1586143175005
+    assassin: 1587836915947
+    heavy: 1587600756062
+  lastteleport: 1595469948839
+  logout: 1588643540303
+ipAddress: 98.235.180.48
+lastlocation:
+  world: survival2
+  x: -10.099247316209633
+  y: 67.0
+  z: 245.89368094923526
+  yaw: 5.851765
+  pitch: 4.5795465
+logoutlocation:
+  world: island2
+  x: -209.69212411889558
+  y: 188.2264680525637
+  z: 67.40302938808027
+  yaw: 326.69775
+  pitch: 35.36464
+afk: false
+nickname: piratelover5
+socialspy: false
+powertools:
+  stick:
+  - smite
+godmode: true
+homes:
+  home:
+    world: island
+    x: -94.07973620157838
+    y: 64.0
+    z: -74.7114067073659
+    yaw: -264.29248
+    pitch: 10.638392

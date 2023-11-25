@@ -1,0 +1,34 @@
+lastAccountName: bryant784
+timestamps:
+  login: 1587864144835
+  lastteleport: 1587850835229
+  logout: 1587864943790
+  kits:
+    trickster: 1587837179191
+    juggernaut: 1587834910778
+    hunter: 1587835438338
+    assassin: 1587835118878
+ipAddress: 71.207.15.207
+lastlocation:
+  world: sw
+  x: -696.2835277581514
+  y: 20.827117314324568
+  z: 72.30000001192093
+  yaw: 57.711792
+  pitch: 58.16335
+nickname: §2little_papi
+logoutlocation:
+  world: flattyfa
+  x: 26.304625929545402
+  y: 10.729033066514097
+  z: 108.46329335703854
+  yaw: -52.66159
+  pitch: 7.381712
+homes:
+  home:
+    world: island
+    x: -115.53853050945001
+    y: 138.0
+    z: 188.58922441601078
+    yaw: 253.92818
+    pitch: 25.199713

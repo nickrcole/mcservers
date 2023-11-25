@@ -1,0 +1,150 @@
+welch:
+  Creator: piratelover5
+  Views: 48
+  Completed: 1
+  XP: 0
+  Points: 12
+  World: flattyfa
+  '0':
+    X: 121.5
+    Y: 4.5
+    Z: 85.5
+    Yaw: 255.30878
+    Pitch: 5.5142055
+  Finished: false
+  '1':
+    X: 126.5
+    Y: 11.5
+    Z: 72.5
+    Yaw: 264.9668
+    Pitch: 62.130535
+  '2':
+    X: 137.5
+    Y: 9.5
+    Z: 75.5
+    Yaw: 277.9673
+    Pitch: 60.458344
+  '3':
+    X: 141.5
+    Y: 14.5
+    Z: 82.5
+    Yaw: 268.48877
+    Pitch: 54.512897
+  '4':
+    X: 168.5
+    Y: 10.5
+    Z: 86.5
+    Yaw: 270.3545
+    Pitch: 75.69369
+  '5':
+    X: 173.5
+    Y: 16.5
+    Z: 86.5
+    Yaw: 267.95166
+    Pitch: 58.786358
+  '6':
+    X: 180.5
+    Y: 12.5
+    Z: 94.5
+    Yaw: 359.49414
+    Pitch: 55.813583
+  '7':
+    X: 197.5
+    Y: 12.5
+    Z: 92.5
+    Yaw: 183.53613
+    Pitch: 68.633484
+  '8':
+    X: 201.5
+    Y: 12.5
+    Z: 53.5
+    Yaw: 182.05322
+    Pitch: 74.39316
+  '9':
+    X: 176.5
+    Y: 11.5
+    Z: 56.5
+    Yaw: 93.57568
+    Pitch: 57.671555
+  '10':
+    X: 160.5
+    Y: 10.5
+    Z: 66.5
+    Yaw: 108.73096
+    Pitch: 57.485653
+  '11':
+    X: 155.5
+    Y: 18.5
+    Z: 78.5
+    Yaw: 268.15167
+    Pitch: 47.824154
+  '12':
+    X: 143.5
+    Y: 15.5
+    Z: 63.5
+    Yaw: 182.20001
+    Pitch: 62.502014
+Courses:
+- cy
+- test
+- welch
+CourseInfo:
+  AutoStart:
+    -84-10--57: janitor
+test:
+  Creator: pletlibo
+  Views: 0
+  Completed: 0
+  XP: 0
+  Points: 0
+  World: flattyfa
+  '0':
+    X: 124.5
+    Y: 5.5
+    Z: 85.5
+    Yaw: 262.20883
+    Pitch: 38.06421
+cy:
+  Creator: piratelover5
+  Views: 9
+  Completed: 0
+  XP: 0
+  Points: 5
+  World: flattyfa
+  '0':
+    X: -56.5
+    Y: 8.5
+    Z: -70.5
+    Yaw: 1.3529053
+    Pitch: 16.950031
+  '1':
+    X: -52.5
+    Y: 12.5
+    Z: -66.5
+    Yaw: 343.80237
+    Pitch: 50.550037
+  '2':
+    X: -44.5
+    Y: 11.5
+    Z: -55.5
+    Yaw: 80.25098
+    Pitch: 49.500084
+  '3':
+    X: -44.5
+    Y: 11.5
+    Z: -55.5
+    Yaw: 170.70227
+    Pitch: 62.5501
+  '4':
+    X: -42.5
+    Y: 11.5
+    Z: -51.5
+    Yaw: 57.007812
+    Pitch: 43.50007
+  '5':
+    X: -47.5
+    Y: 11.5
+    Z: -43.5
+    Yaw: 295.9541
+    Pitch: 53.10003
+  Finished: true

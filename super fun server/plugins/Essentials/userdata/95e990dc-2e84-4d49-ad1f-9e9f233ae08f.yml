@@ -1,0 +1,29 @@
+lastAccountName: windswepted
+timestamps:
+  login: 1588722608731
+  lastteleport: 1586311171268
+  logout: 1588722682640
+ipAddress: 98.235.167.218
+lastlocation:
+  world: flattyfa
+  x: 169.17054219276062
+  y: 4.0
+  z: 416.36943689623314
+  yaw: 76.34707
+  pitch: 3.6001377
+homes:
+  home:
+    world: flattyfa
+    x: 47.69999998807907
+    y: 12.0
+    z: -162.30000001192093
+    yaw: 108.89611
+    pitch: 8.700484
+afk: false
+logoutlocation:
+  world: flattyfa
+  x: -52.13445757405864
+  y: 4.0
+  z: 20.07866975930329
+  yaw: -20.103058
+  pitch: 4.799929

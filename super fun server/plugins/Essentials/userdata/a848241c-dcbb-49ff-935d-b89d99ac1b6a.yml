@@ -1,0 +1,29 @@
+lastAccountName: olebabajr
+timestamps:
+  login: 1586283874725
+  lastteleport: 1586284201999
+  logout: 1586284401453
+ipAddress: 73.187.204.208
+lastlocation:
+  world: flattyfa
+  x: 4.644871448750945
+  y: 44.0
+  z: 106.53453336101705
+  yaw: 268.64734
+  pitch: 2.55013
+logoutlocation:
+  world: flattyfa
+  x: -15.153370063570195
+  y: 8.0
+  z: 18.32962083901879
+  yaw: -171.15277
+  pitch: 12.000175
+homes:
+  home:
+    world: survival2
+    x: 387.5
+    y: 64.0
+    z: 393.5
+    yaw: -259.18286
+    pitch: 19.112482
+afk: false

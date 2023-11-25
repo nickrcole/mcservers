@@ -1,0 +1,35 @@
+lastAccountName: Bioh2
+timestamps:
+  login: 1588024874052
+  logout: 1588027131138
+  lastteleport: 1588026776753
+  kits:
+    soldier: 1587600641437
+    archer: 1587691174307
+    heavy: 1587598818087
+ipAddress: 98.235.77.23
+lastlocation:
+  world: island
+  x: -178.69999998807907
+  y: 161.0
+  z: -102.81472984803236
+  yaw: -288.59686
+  pitch: 12.899964
+logoutlocation:
+  world: island
+  x: -174.517333020032
+  y: 179.0
+  z: -85.74041499214029
+  yaw: -42.750183
+  pitch: 15.300062
+afk: false
+teleportauto: true
+nickname: TribalChief
+homes:
+  home:
+    world: island
+    x: -85.3991531845623
+    y: 64.0
+    z: -74.55926047753083
+    yaw: -263.09982
+    pitch: -4.3500023

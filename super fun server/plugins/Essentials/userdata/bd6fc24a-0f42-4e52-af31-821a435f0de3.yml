@@ -1,0 +1,21 @@
+lastAccountName: gifboom
+timestamps:
+  login: 1587864666160
+  lastteleport: 1587858084833
+  logout: 1587864859687
+ipAddress: 98.235.167.218
+lastlocation:
+  world: flattyfa
+  x: -32.059568462187784
+  y: 8.0
+  z: -144.7676323646523
+  yaw: 274.04584
+  pitch: 1.4998442
+logoutlocation:
+  world: flattyfa
+  x: 225.04752748614777
+  y: 30.788925197650872
+  z: 115.05239010414238
+  yaw: 135.89667
+  pitch: -12.149933
+afk: false

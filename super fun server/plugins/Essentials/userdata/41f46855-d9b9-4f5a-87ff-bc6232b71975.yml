@@ -1,0 +1,20 @@
+lastAccountName: BabyJuice
+timestamps:
+  login: 1586297811340
+  logout: 1586298251568
+  lastteleport: 1586298178237
+ipAddress: 73.187.103.10
+lastlocation:
+  world: flattyfa
+  x: 19.56267071745095
+  y: 4.0
+  z: -652.6105655698049
+  yaw: 342.71124
+  pitch: 16.777327
+logoutlocation:
+  world: flattyfa
+  x: -12.087447760384917
+  y: 4.089694236889106
+  z: -21.596048607186987
+  yaw: 90.70823
+  pitch: 29.880957

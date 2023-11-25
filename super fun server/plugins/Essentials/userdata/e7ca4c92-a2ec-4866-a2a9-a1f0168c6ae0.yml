@@ -1,0 +1,21 @@
+lastAccountName: bert_rob
+timestamps:
+  login: 1588123730053
+  lastteleport: 1588123953649
+  logout: 1588125116815
+ipAddress: 71.207.12.96
+lastlocation:
+  world: flattyfa
+  x: 92.86655530404882
+  y: 17.0
+  z: -110.24408418267228
+  yaw: 9.504028
+  pitch: 3.2413685
+logoutlocation:
+  world: flattyfa
+  x: 122.17584993899744
+  y: 4.5
+  z: 83.92833102326824
+  yaw: 199.67627
+  pitch: 24.388494
+afk: false

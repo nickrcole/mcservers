@@ -1,0 +1,21 @@
+lastAccountName: ironcaptain101
+timestamps:
+  login: 1587806113673
+  lastteleport: 1586196152531
+  logout: 1587806120933
+ipAddress: 71.207.12.135
+lastlocation:
+  world: flattyfa
+  x: 3.6940423103478572
+  y: 44.0
+  z: 106.37813804490571
+  yaw: 82.73836
+  pitch: 2.4327567
+logoutlocation:
+  world: flattyfa
+  x: 140.3949731911522
+  y: 4.0
+  z: 87.89023287724113
+  yaw: -179.76099
+  pitch: -24.841196
+afk: false

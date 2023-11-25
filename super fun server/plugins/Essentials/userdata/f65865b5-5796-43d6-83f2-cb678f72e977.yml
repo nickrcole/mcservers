@@ -1,0 +1,20 @@
+lastAccountName: appliable
+timestamps:
+  login: 1588016984761
+  lastteleport: 1588017440941
+  logout: 1588017492589
+ipAddress: 71.60.115.106
+lastlocation:
+  world: flattyfa
+  x: 170.1237013957512
+  y: 4.0
+  z: 413.24551660935344
+  yaw: 184.19737
+  pitch: -12.299842
+logoutlocation:
+  world: flattyfa
+  x: -3.886592725654862
+  y: 117.0
+  z: -11.231623101755712
+  yaw: 0.2838745
+  pitch: 50.100464

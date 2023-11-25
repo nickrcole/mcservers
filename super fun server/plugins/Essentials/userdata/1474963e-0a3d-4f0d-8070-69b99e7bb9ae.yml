@@ -1,0 +1,20 @@
+lastAccountName: lockerdoodle
+timestamps:
+  login: 1588702427156
+  logout: 1588702815396
+  lastteleport: 1588702550888
+ipAddress: 71.58.213.162
+lastlocation:
+  world: sw
+  x: -309.69999998807907
+  y: 63.0
+  z: 38.90098927143983
+  yaw: -279.39578
+  pitch: -27.253498
+logoutlocation:
+  world: flattyfa
+  x: 136.22846836253728
+  y: 10.185232070935035
+  z: 58.90643243074994
+  yaw: -312.61774
+  pitch: 50.48994

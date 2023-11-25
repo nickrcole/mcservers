@@ -1,0 +1,38 @@
+lastAccountName: footman8
+timestamps:
+  login: 1595469907210
+  logout: 1595469865927
+  lastteleport: 1595469971170
+  kits:
+    centurion: 1587866837401
+    trickster: 1587866821434
+    centurian: 1587835861932
+    firework: 1587866135658
+    sniper: 1587866744588
+    notch: 1587836108032
+    assassin: 1587866163585
+ipAddress: 71.58.75.74
+lastlocation:
+  world: flattyfa
+  x: 18.05983155843028
+  y: 21.795454109892738
+  z: -7.819929232923391
+  yaw: -271.66058
+  pitch: 12.1815815
+logoutlocation:
+  world: island
+  x: -98.37416009538508
+  y: 78.0
+  z: -35.338106729740446
+  yaw: 71.64212
+  pitch: 60.37789
+homes:
+  home:
+    world: island
+    x: -112.72552077773413
+    y: 138.0
+    z: 191.59241326220754
+    yaw: 130.19719
+    pitch: 21.429375
+afk: false
+nickname: §1puny_papi

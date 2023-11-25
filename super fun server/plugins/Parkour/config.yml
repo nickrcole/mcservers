@@ -1,0 +1,162 @@
+# ==== Parkour Config ==== #
+ParkourModes:
+  Challenge:
+    HidePlayers: true
+    CountdownFrom: 5
+  Moon:
+    Strength: 5
+  Speedy:
+    SetSpeed: 0.8
+    ResetSpeed: 0.2
+ParkourGUI:
+  Enabled: false
+  Rows: 2
+  Material: BOOK
+Version: 5.3
+OnCourse:
+  AdminPlaceBreakBlocks: true
+  AttemptLessChecks: false
+  CheckpointMaterial: STONE_PLATE
+  DieInLiquid: false
+  DieInVoid: false
+  DisableItemDrop: false
+  DisableItemPickup: false
+  DisablePlayerDamage: false
+  DisableFly: true
+  DisplayLiveTime: false
+  EnforceParkourSigns: true
+  MaxFallTicks: 80
+  PreventPlateStick: false
+  PreventOpeningOtherInventories: false
+  PreventAttackingEntities: false
+  PreventJoiningDifferentCourse: false
+  PreventPlayerCollisions: false
+  SneakToInteractItems: true
+  UseParkourKit: true
+  Trails:
+    Enabled: false
+    Particle: DRIP_LAVA
+  EnforceParkourCommands:
+    Enabled: true
+    Whitelist:
+    - login
+MySQL:
+  Use: false
+  Host: Host
+  Port: 3306
+  User: Username
+  Password: Password
+  Database: Database
+  Table: Table
+SQLite:
+  PathOverride: ''
+Other:
+  CheckForUpdates: true
+  LogToFile: true
+  EnforceSafeCheckpoints: true
+  UseAutoTabCompletion: true
+  OnServerShutdown:
+    BackupFiles: false
+  Economy:
+    Enabled: false
+  BountifulAPI:
+    Enabled: false
+  PlaceholderAPI:
+    Enabled: false
+  Parkour:
+    SignProtection: true
+    InventoryManagement: true
+    SignPermissions: false
+    CommandPermissions: false
+    ChatRankPrefix:
+      Enabled: false
+      OverrideChat: true
+  Display:
+    JoinWelcomeMessage: true
+    LevelReward: true
+    ShowMilliseconds: false
+    PrizeCooldown: true
+  ParkourKit:
+    ReplaceInventory: true
+AutoStart:
+  Enabled: true
+  Material: BEDROCK
+  TickDelay: 0
+OnJoin:
+  AllowViaCommand: true
+  EnforceWorld: false
+  EnforceFinished: true
+  FillHealth: true
+  SetGamemode: 0
+  TreatFirstCheckpointAsStart: false
+  Item:
+    LastCheckpoint:
+      Material: ARROW
+      Slot: 0
+    HideAll:
+      Material: BONE
+      Slot: 1
+      Global: true
+    Leave:
+      Material: SAPLING
+      Slot: 2
+    Restart:
+      Material: STICK
+      Slot: 3
+DisplayTitle:
+  FadeIn: 5
+  Stay: 20
+  FadeOut: 5
+  JoinCourse: true
+  Checkpoint: true
+  RewardLevel: true
+  Death: true
+  Leave: true
+  Finish: true
+Scoreboard:
+  Enabled: false
+  Display:
+    CourseName: true
+    BestTimeEver: true
+    BestTimeEverName: true
+    BestTimeByMe: true
+    CurrentTime: true
+OnDie:
+  ResetTimeWithNoCheckpoint: false
+  SetXPBarToDeathCount: false
+OnFinish:
+  BroadcastLevel: 3
+  DisplayNewRecords: false
+  DisplayStats: true
+  EnablePrizes: true
+  EnforceCompletion: true
+  SaveUserCompletedCourses: true
+  SetGamemode: 0
+  TeleportAway: true
+  TeleportDelay: 0
+  UpdatePlayerDatabaseTime: false
+  DefaultPrize:
+    Material: DIAMOND
+    Amount: 1
+    XP: 0
+OnLeave:
+  TeleportToLinkedLobby: false
+Lobby:
+  EnforceWorld: false
+  Welch:
+    World: flattyfa
+    X: 47.44633029442284
+    Y: 238.0
+    Z: 45.30600101029041
+    Pitch: 46.49999
+    Yaw: 181.0378
+  World: flattyfa
+  X: 69.98305971967913
+  Y: 4.0
+  Z: 110.75845610456784
+  Pitch: -4.3499875
+  Yaw: 171.84996
+  Set: true
+OnLeaveServer:
+  LeaveCourse: false
+  TeleportToLastCheckpoint: false

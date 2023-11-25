@@ -1,0 +1,30 @@
+lastAccountName: EvilHavarti
+timestamps:
+  login: 1571368681442
+  logout: 1571368659297
+  lastteleport: 1571370426427
+ipAddress: 73.187.103.201
+lastlocation:
+  world: spawn2
+  x: -255.47464837834585
+  y: 76.0
+  z: 706.4070900139383
+  yaw: 179.99948
+  pitch: -6.000023
+logoutlocation:
+  world: survival2
+  x: 392.2003007895661
+  y: 64.0
+  z: 397.24980344856186
+  yaw: -85.73457
+  pitch: 9.70771
+godmode: false
+homes:
+  home:
+    world: survival2
+    x: 1.5776988839129946
+    y: 64.0
+    z: 205.38448331669244
+    yaw: -144.51941
+    pitch: -40.593376
+nickname: §l§n§ofaggot

@@ -1,0 +1,254 @@
+groups:
+  Member:
+    permissions:
+    - essentials.msg
+    - essentials.warp
+    - essentials.speed
+    - headsinv.myhead
+    - essentials.fly
+    - essentials.warp.list
+    - modifyworld.*
+    - bukkit.command.help
+    - bukkit.command.me
+    - bukkit.command.kill
+    - bukkit.command.tell
+    - parkour.basic.*
+    - bukkit.broadcast.user
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.build
+    - essentials.chat.shout
+    - essentials.chat.question
+    - essentials.compass
+    - essentials.depth
+    - essentials.delhome
+    - essentials.getpos
+    - essentials.geoip.show
+    - essentials.suicide
+    - essentials.help
+    - essentials.helpop
+    - essentials.home
+    - essentials.ignore
+    - essentials.info
+    - essentials.kit
+    - essentials.kits.tools
+    - essentials.signs.use.*
+    - essentials.kits.soldier
+    - essentials.kits.archer
+    - essentials.kits.healer
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.motd
+    - essentials.near
+    - essentials.pay
+    - essentials.ping
+    - essentials.protect
+    - essentials.rules
+    - essentials.sethome
+    - essentials.setxmpp
+    - essentials.signs.create.protection
+    - essentials.signs.create.trade
+    - essentials.signs.break.protection
+    - essentials.signs.break.trade
+    - essentials.signs.use.balance
+    - essentials.signs.use.buy
+    - essentials.signs.use.disposal
+    - essentials.signs.use.enchant
+    - essentials.signs.use.free
+    - essentials.signs.use.gamemode
+    - essentials.signs.use.heal
+    - essentials.signs.use.info
+    - essentials.signs.use.mail
+    - essentials.signs.use.protection
+    - essentials.signs.use.repair
+    - essentials.signs.use.sell
+    - essentials.signs.use.time
+    - essentials.signs.use.trade
+    - essentials.signs.use.warp
+    - essentials.signs.use.weather
+    - essentials.kick.notify
+    - essentials.mute.notify
+    - essentials.ban.notify
+    - essentials.spawn
+    - essentials.suicide
+    - essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.world
+    - essentials.worth
+    - essentials.xmpp
+    - worldguard.list.own
+    - worldguard.region.list
+    - worldguard.region.remove.own.*
+    - essentials.chat.link
+    - worldguard.notify
+    - ships.*.use
+    - ships.command.sign
+    - cannons.player.*
+    - chairs.sit
+    - obsidianbreaker.test
+    options:
+      rank: '10'
+      default: 'true'
+      prefix: '&3[&aVisitor&3]'
+  Earth:
+    permissions:
+    - modifyworld.*
+    - essentials.signs.use.*
+    - essentials.msg
+    - bukkit.command.help
+    - essentials.delhome
+    - essentials.sethome
+    - essentials.home
+    options:
+      rank: '11'
+      prefix: '&8[&aEarth Tribe&8]'
+  Water:
+    permissions:
+    - modifyworld.*
+    - essentials.signs.use.*
+    - essentials.msg
+    - bukkit.command.help
+    - essentials.delhome
+    - essentials.sethome
+    - essentials.home
+    options:
+      rank: '11'
+      prefix: '&8[&9Water Tribe&8]'
+  Fire:
+    permissions:
+    - modifyworld.*
+    - essentials.signs.use.*
+    - essentials.msg
+    - bukkit.command.help
+    - essentials.delhome
+    - essentials.sethome
+    - essentials.home
+    options:
+      rank: '11'
+      prefix: '&8[&cFire Tribe&8]'
+  Moderator:
+    permissions:
+    - essentials.kick
+    - essentials.mute
+    - essentials.mute.offline
+    - essentials.tempban
+    - essentials.tempban.offline
+    - essentials.jails
+    - essentials.invsee
+    - essentials.back.*
+    options:
+      rank: '9'
+      prefix: '&9[&bModerator&9]'
+    inheritance:
+    - Member
+  Admin:
+    permissions:
+    - cannons.admin
+    - chairs.reload
+    - obsidianbreaker.reload
+    - essentials.god
+    - essentials.god.others
+    - essentials.god.pvp
+    - essentials.ban
+    - essentials.ban.offline
+    - essentials.banip
+    - essentials.fly
+    - essentials.fly.safelogin
+    - essentials.item.*
+    - essentials.give.*
+    - essentials.invsee.modify
+    - essentials.remove
+    - essentials.socialspy
+    - essentials.socialspy.others
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.weather
+    - essentials.tpo.*
+    - essentials.tpohere.*
+    - essentials.world.*
+    - essentials.setwarp.*
+    - essentials.warp.*
+    - essentials.warplist
+    - essentials.vanish.*
+    - essentials.broadcast
+    - headsinv.*
+    - essentials.whois.*
+    - essentials.seen
+    - essentials.realname
+    - essentials.nick.*
+    - essentials.clearinventory
+    - essentials.clearinventory.others
+    - essentials.chat.*
+    - essentials.signs.create.balance
+    - essentials.signs.create.buy
+    - worldguard.*
+    - essentials.signs.create.sell
+    - essentials.signs.create.trade
+    - essentials.spawner.*
+    options:
+      rank: '8'
+      prefix: '&9[&6Builder&9]&f'
+    inheritance:
+    - Moderator
+  Owner:
+    permissions:
+    - cannons.*
+    - headsinventory.*
+    - ships.*
+    - essentials.*
+    - permissions.*
+    - worldguard.*
+    - worldedit.*
+    - multiverse.*
+    - enchanter.*
+    - worldborder.*
+    - essentials.invsee.preventmodify
+    - essentials.ban.exempt
+    options:
+      rank: '7'
+      prefix: '&9[&eArchitect&9]&f'
+    inheritance:
+    - Admin
+schema-version: 1
+users:
+  35f59b2e-9242-4626-a4db-5c855b919af6:
+    group:
+    - Owner
+    - Fire
+    options:
+      name: piratelover5
+  d4bc6457-2884-432c-92c6-6975cf98990b:
+    group:
+    - Admin
+    options:
+      name: GhastBuster13425
+  a803a15f-4468-41af-b654-f966721fb65b:
+    group:
+    - Admin
+    options:
+      name: footman8
+  emma:
+    group:
+    - Admin
+  7dc88886-bdd2-4dda-b8d3-3f0d3bd26326:
+    group:
+    - Admin
+    options:
+      name: pletlibo
+  9d1e5939-79cc-43dc-9c93-d4c1fb500e4f:
+    group:
+    - Admin
+    options:
+      name: abomboo
+  b63f4e2b-5249-480a-9dd7-a1361cb9057d:
+    group:
+    - Admin
+    options:
+      name: Ccable
